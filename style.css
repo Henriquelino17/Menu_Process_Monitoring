@@ -9,7 +9,12 @@ body{
   background-repeat: no-repeat;
 }
 
-
+h2{
+  color:#76f5e4;
+  font-family: Cursive;
+  font-size: 17px;
+  
+}
 
 *, :before, :after {
   box-sizing: border-box;
