@@ -1,7 +1,12 @@
 body{
-  background-image: url("https://www.csn.com.br/wp-content/uploads/sites/452/2020/11/segmentos-mineracao-01-2.jpg");
-  background-position: center; 
-  background-size: 100% 100%;
+  font-family: "Roboto Mono", monospace;
+  min-height: 600px;
+  background-image: url("https://s2.glbimg.com/p5jZqWt5fySTb62T0PUMELVXXzk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/X/1/fdOGu2SfWyj8EbHqNE4g/csnminerio.jpg");
+  
+  background-color: #000000;
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
 }
 
 
