@@ -55,19 +55,19 @@ h2{
 .logo a {
   display: block;
   padding: 1em 0;
-  color: #DFDBD9;
+  color: #DF4500;
   text-decoration: none;
   transition: .1s linear color;
 }
 .logo a:hover {
-  color: #fff;
+  color: rgb(5, 253, 199);
 }
 .logo a:hover span {
   color: #DF4500;
 }
 .logo span {
   font-weight: 700;
-  transition: .0s linear color;
+  
 }
 
 .main-nav ul {
